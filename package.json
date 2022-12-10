@@ -37,5 +37,9 @@
       "last 1 safari version"
     ]
   },
-  "packageManager": "yarn@3.3.0"
+  "packageManager": "yarn@3.3.0",
+  "devDependencies": {
+    "input": "^1.0.1",
+    "telegram": "^2.14.7"
+  }
 }
