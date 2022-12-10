@@ -1,0 +1,13 @@
+
+.wrapper {
+	position: relative;
+	display: flex;
+	min-height: 514px;
+
+	.main {
+		background-size: cover;
+		background-position: center;
+		background-repeat: no-repeat;
+		position: relative;
+	}
+}
