@@ -2,7 +2,7 @@ const { TelegramClient } = require('telegram')
 const { StringSession } = require('telegram/sessions')
 const input = require('input') // npm i input
 
-const apiId = 
+const apiId = 0
 const apiHash = ''
 const stringSession = new StringSession(''); // fill this later with the value from session.save()
 
